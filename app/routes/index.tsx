@@ -7,7 +7,7 @@ const styles = {
   minHeight: '100vh',
 };
 
-export default function Index() {
+export default function Index(): JSX.Element {
   return (
     <div style={styles}>
       <h1>Welcome to Remix</h1>
