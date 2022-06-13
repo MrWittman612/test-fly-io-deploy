@@ -5,6 +5,7 @@ const styles = {
   alignItems: 'center',
   justifyContent: 'center',
   minHeight: '100vh',
+  background: 'blue',
 };
 
 export default function Index(): JSX.Element {
