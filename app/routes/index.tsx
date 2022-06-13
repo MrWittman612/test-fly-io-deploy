@@ -5,13 +5,14 @@ const styles = {
   alignItems: 'center',
   justifyContent: 'center',
   minHeight: '100vh',
-  background: 'blue',
+  background: '#121123',
+  color: 'white',
 };
 
 export default function Index(): JSX.Element {
   return (
     <div style={styles}>
-      <h1>Welcome to Remix!</h1>
+      <h1>Hello World</h1>
     </div>
   );
 }
