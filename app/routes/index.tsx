@@ -11,7 +11,7 @@ const styles = {
 export default function Index(): JSX.Element {
   return (
     <div style={styles}>
-      <h1>Welcome to Remix</h1>
+      <h1>Welcome to Remix!</h1>
     </div>
   );
 }
